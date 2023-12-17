@@ -1,2 +1,2 @@
 # fev2-rwblg
-Frontend personal Website
+Frontend 2nd Version Personal (React Webpack Babel Linter GraphQL)
